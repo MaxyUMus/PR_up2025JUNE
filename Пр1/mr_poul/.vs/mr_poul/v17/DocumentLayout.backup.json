@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04401\\mr_poul\\mr_poul\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|solutionrelative:mr_poul\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|solutionrelative:mr_poul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04401\\mr_poul\\mr_poul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|solutionrelative:mr_poul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|solutionrelative:mr_poul\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D6C3BC-12C7-4853-8E76-C6532B287CB0}|mr_poul\\mr_poul.csproj|solutionrelative:mr_poul\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Program.cs",
+              "RelativeDocumentMoniker": "mr_poul\\Program.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Program.cs",
+              "RelativeToolTip": "mr_poul\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:18:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form2.cs",
+              "RelativeDocumentMoniker": "mr_poul\\Form2.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form2.cs",
+              "RelativeToolTip": "mr_poul\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:58:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form2.cs",
+              "RelativeDocumentMoniker": "mr_poul\\Form2.cs",
+              "ToolTip": "C:\\Users\\maxyum\\Desktop\\mr_poul\\mr_poul\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\maxyum\\Desktop\\mr_poul\\mr_poul\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:26:39.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form1.cs",
+              "RelativeDocumentMoniker": "mr_poul\\Form1.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form1.cs",
+              "RelativeToolTip": "mr_poul\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:08:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form1.cs",
+              "RelativeDocumentMoniker": "mr_poul\\Form1.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04401\\mr_poul\\mr_poul\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "mr_poul\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:19:18.862Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

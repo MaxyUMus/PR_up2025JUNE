@@ -1,0 +1,132 @@
+C:\С# Project\mr_poul\mr_poul\bin\Debug\mr_poul.exe.config
+C:\С# Project\mr_poul\mr_poul\bin\Debug\mr_poul.exe
+C:\С# Project\mr_poul\mr_poul\bin\Debug\mr_poul.pdb
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Npgsql.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Buffers.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Memory.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Text.Json.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.ValueTuple.dll
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\Npgsql.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Buffers.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Memory.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Text.Json.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\С# Project\mr_poul\mr_poul\bin\Debug\System.ValueTuple.xml
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.AssemblyReference.cache
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.Form1.resources
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.Properties.Resources.resources
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.GenerateResource.cache
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.CoreCompileInputs.cache
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.Up2Date
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.exe
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.pdb
+C:\С# Project\mr_poul\mr_poul\obj\Debug\mr_poul.Form2.resources
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\mr_poul.exe.config
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\mr_poul.exe
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\mr_poul.pdb
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Npgsql.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Buffers.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Memory.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Text.Json.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.ValueTuple.dll
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\Npgsql.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Buffers.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Memory.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Text.Json.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\bin\Debug\System.ValueTuple.xml
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.AssemblyReference.cache
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.Form1.resources
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.Form2.resources
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.Properties.Resources.resources
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.GenerateResource.cache
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.CoreCompileInputs.cache
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.Up2Date
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.exe
+C:\Users\maxyum\Desktop\mr_poul\mr_poul\obj\Debug\mr_poul.pdb
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\mr_poul.exe.config
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\mr_poul.exe
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\mr_poul.pdb
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Npgsql.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Buffers.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Memory.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Text.Json.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.ValueTuple.dll
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\Npgsql.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Buffers.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Memory.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Text.Json.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Threading.Channels.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\bin\Debug\System.ValueTuple.xml
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.AssemblyReference.cache
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.Form1.resources
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.Form2.resources
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.Properties.Resources.resources
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.GenerateResource.cache
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.CoreCompileInputs.cache
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.csproj.Up2Date
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.exe
+C:\Users\pilip\Desktop\УП_Работы\Пр1\mr_poul\mr_poul\obj\Debug\mr_poul.pdb
