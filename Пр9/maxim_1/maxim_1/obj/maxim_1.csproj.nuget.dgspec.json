@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pilip\\Desktop\\УП_Работы\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj": {}
+    "C:\\Users\\pilip\\Desktop\\УП_Работы\\PR_up2025JUNE\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pilip\\Desktop\\УП_Работы\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj": {
+    "C:\\Users\\pilip\\Desktop\\УП_Работы\\PR_up2025JUNE\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pilip\\Desktop\\УП_Работы\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj",
+        "projectUniqueName": "C:\\Users\\pilip\\Desktop\\УП_Работы\\PR_up2025JUNE\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj",
         "projectName": "maxim_1",
-        "projectPath": "C:\\Users\\pilip\\Desktop\\УП_Работы\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj",
+        "projectPath": "C:\\Users\\pilip\\Desktop\\УП_Работы\\PR_up2025JUNE\\Пр9\\maxim_1\\maxim_1\\maxim_1.csproj",
         "packagesPath": "C:\\Users\\pilip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pilip\\Desktop\\УП_Работы\\Пр9\\maxim_1\\maxim_1\\obj\\",
+        "outputPath": "C:\\Users\\pilip\\Desktop\\УП_Работы\\PR_up2025JUNE\\Пр9\\maxim_1\\maxim_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

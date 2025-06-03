@@ -17,7 +17,7 @@ namespace maxim_1
         private int counter = 0;
         private MainForm mainForm;
         private List<CartItem> cartItems = new List<CartItem>();
-        private int nextCheckNumber = 2365899; // Starting from next available number
+        private int nextCheckNumber = 2365899;
 
         public AdditionalForm(MainForm mainForm)
         {
@@ -45,7 +45,6 @@ namespace maxim_1
             timer.Tick += Timer_Tick;
             this.Icon = new System.Drawing.Icon("images/app_icon.ico");
 
-            // Set default values
             purchaseDatePicker.Value = DateTime.Now;
             deliveryDatePicker.Value = DateTime.Now.AddDays(3);
             statusComboBox.SelectedIndex = 0;
@@ -157,7 +156,6 @@ namespace maxim_1
                 return;
             }
 
-            // Check if product already in cart
             var existingItem = cartItems.FirstOrDefault(item => item.ProductId == productId);
             if (existingItem != null)
             {
@@ -288,7 +286,6 @@ namespace maxim_1
                                 cmd.ExecuteNonQuery();
                             }
 
-                            // Update product quantity
                             string updateQuery = "UPDATE products SET product_quantity = product_quantity - @quantity WHERE product_id = @productId";
                             using (var updateCmd = new NpgsqlCommand(updateQuery, Constants.Connection, transaction))
                             {
@@ -301,7 +298,6 @@ namespace maxim_1
                         transaction.Commit();
                         ShowStatusMessage("Покупка успешно сохранена");
 
-                        // Clear cart and generate new check number
                         cartItems.Clear();
                         RefreshCartGrid();
                         UpdateCartTotal();

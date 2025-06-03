@@ -48,7 +48,6 @@ namespace maxim_1
             go_back_button.Icon = IconChar.ArrowLeft.ToBitmap(
                 Methods.GetContrastTextColor(Constants.SecondaryBackgroundColor), 36);
 
-            // Initialize cart controls
             discountComboBox.Items.AddRange(new object[] { "0%", "5%", "10%", "15%", "20%" });
             discountComboBox.SelectedIndex = 0;
             status_bar_text.Text = "";
@@ -179,7 +178,6 @@ namespace maxim_1
                                     Quantity = quantity
                                 };
 
-                                // Check if product already in cart
                                 var existingProduct = cartProducts.FirstOrDefault(p => p.Id == productId);
                                 if (existingProduct != null)
                                 {
@@ -212,7 +210,6 @@ namespace maxim_1
             totalSum = cartProducts.Sum(p => p.Price * p.Quantity);
             totalItems = cartProducts.Sum(p => p.Quantity);
 
-            // Apply discount
             decimal discount = GetDiscountPercentage();
             decimal discountAmount = totalSum * discount;
             decimal finalSum = totalSum - discountAmount;
@@ -322,7 +319,6 @@ namespace maxim_1
                 {
                     try
                     {
-                        // Create sale
                         string saleQuery = @"INSERT INTO sales (sale_date, employee_id, amount, summ) 
                                           VALUES (@date, @employeeId, @amount, @summ) RETURNING sale_id";
                         decimal discount = GetDiscountPercentage();
@@ -337,10 +333,8 @@ namespace maxim_1
 
                             int saleId = Convert.ToInt32(cmd.ExecuteScalar());
 
-                            // Create sale items
                             foreach (var product in cartProducts)
                             {
-                                // Create sale list item
                                 string saleListItemQuery = @"INSERT INTO sale_lists (sale_list_number, product_id, amount) 
                                                          VALUES (@number, @productId, @amount) RETURNING sale_list_id";
                                 using (var itemCmd = new NpgsqlCommand(saleListItemQuery, Constants.Connection, transaction))
@@ -350,7 +344,6 @@ namespace maxim_1
                                     itemCmd.Parameters.AddWithValue("@amount", product.Quantity);
                                     int saleListItemId = Convert.ToInt32(itemCmd.ExecuteScalar());
 
-                                    // Link sale list item to sale
                                     string linkQuery = "UPDATE sales SET sale_list_id = @listId WHERE sale_id = @saleId";
                                     using (var linkCmd = new NpgsqlCommand(linkQuery, Constants.Connection, transaction))
                                     {
@@ -360,7 +353,6 @@ namespace maxim_1
                                     }
                                 }
 
-                                // Update stock
                                 string updateStockQuery = "UPDATE products SET product_stock_amount = product_stock_amount - @quantity WHERE product_id = @productId";
                                 using (var stockCmd = new NpgsqlCommand(updateStockQuery, Constants.Connection, transaction))
                                 {

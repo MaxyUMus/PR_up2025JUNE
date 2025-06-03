@@ -39,7 +39,6 @@ namespace maxim_1
             timer.Tick += Timer_Tick;
             this.Icon = new System.Drawing.Icon("images/app_icon.ico");
 
-            // Настройка многострочного поля
             materialTextBoxOtherInfo.Multiline = true;
             materialTextBoxOtherInfo.ScrollBars = (RichTextBoxScrollBars)ScrollBars.Vertical;
         }
@@ -75,7 +74,6 @@ namespace maxim_1
             string query = "SELECT * FROM aspirants WHERE 1=1";
             var parameters = new Dictionary<string, object>();
 
-            // Добавляем условия фильтрации
             if (!string.IsNullOrEmpty(materialComboBoxPost.Text))
             {
                 query += " AND aspirant_post ILIKE @post";
@@ -145,16 +143,13 @@ namespace maxim_1
 
         private Panel CreateAspirantCard(NpgsqlDataReader reader)
         {
-            // Рассчитываем возраст
             DateTime birthDate = reader.GetDateTime(reader.GetOrdinal("aspirant_birth_date"));
             int age = DateTime.Now.Year - birthDate.Year;
             if (birthDate > DateTime.Now.AddYears(-age)) age--;
 
-            // Преобразуем пол
             string gender = reader["aspirant_gender"].ToString() == "м" ? "Мужской" :
                           reader["aspirant_gender"].ToString() == "ж" ? "Женский" : "Не указан";
 
-            // Получаем статус
             string status = GetAspirantStatus(reader.GetInt32(0));
 
             Panel panel = new Panel
@@ -217,7 +212,7 @@ namespace maxim_1
             }
             catch
             {
-                // В случае ошибки оставляем статус по умолчанию
+                Constants.Connection.Close();
             }
             return status;
         }

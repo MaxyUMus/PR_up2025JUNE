@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,30 +63,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\MainForm.cs",
-              "RelativeDocumentMoniker": "maxim_1\\MainForm.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T21:42:46.799Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\AdditionalForm.cs",
-              "RelativeDocumentMoniker": "maxim_1\\AdditionalForm.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "maxim_1\\AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T21:54:06.453Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -152,6 +128,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T06:55:11.593Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\AdditionalForm.cs",
+              "RelativeDocumentMoniker": "maxim_1\\AdditionalForm.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "maxim_1\\AdditionalForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:54:06.453Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\MainForm.cs",
+              "RelativeDocumentMoniker": "maxim_1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04407\\maxim_1\\maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:42:46.799Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
