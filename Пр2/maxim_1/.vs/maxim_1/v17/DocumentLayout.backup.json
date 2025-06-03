@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\",
+  "WorkspaceRootPath": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\editloanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\editloanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\editloanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\editloanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\additionalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\additionalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\additionalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\\u043F\u04402\\maxim_1\\maxim_1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|c:\\users\\pilip\\desktop\\\u0443\u043F_\u0440\u0430\u0431\u043E\u0442\u044B\\pr_up2025june\\\u043F\u04402\\maxim_1\\maxim_1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB0BBE9-2A43-4368-8AEE-4D18A45471C8}|maxim_1\\maxim_1.csproj|solutionrelative:maxim_1\\additionalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EditLoanForm.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\EditLoanForm.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
               "RelativeToolTip": "maxim_1\\EditLoanForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AuthForm.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\AuthForm.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
               "RelativeToolTip": "maxim_1\\AuthForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,22 +102,21 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AdditionalForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\AdditionalForm.cs",
               "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs [Design]",
-              "RelativeToolTip": "maxim_1\\AdditionalForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:20:45.638Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-22T07:20:45.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AuthForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\AuthForm.cs",
               "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs [Design]",
-              "RelativeToolTip": "maxim_1\\AuthForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T07:21:00.416Z"
             },
@@ -125,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\Program.cs",
               "RelativeDocumentMoniker": "maxim_1\\Program.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\Program.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\Program.cs",
               "RelativeToolTip": "maxim_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,22 +137,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AdditionalForm.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\AdditionalForm.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.cs",
               "RelativeToolTip": "maxim_1\\AdditionalForm.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:28:19.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T07:28:19.157Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EditLoanForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.Designer.cs",
               "RelativeDocumentMoniker": "maxim_1\\EditLoanForm.Designer.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.Designer.cs",
               "RelativeToolTip": "maxim_1\\EditLoanForm.Designer.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAYwEsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "maxim_1\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.Designer.cs",
               "RelativeToolTip": "maxim_1\\MainForm.Designer.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,10 +173,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EditLoanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\EditLoanForm.cs",
               "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "maxim_1\\EditLoanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\\u041F\u04402\\maxim_1\\maxim_1\\EditLoanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T06:01:08.966Z"
             },
@@ -186,9 +184,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AuthForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.Designer.cs",
               "RelativeDocumentMoniker": "maxim_1\\AuthForm.Designer.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AuthForm.Designer.cs",
               "RelativeToolTip": "maxim_1\\AuthForm.Designer.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AdditionalForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.Designer.cs",
               "RelativeDocumentMoniker": "maxim_1\\AdditionalForm.Designer.cs",
-              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\AdditionalForm.Designer.cs",
               "RelativeToolTip": "maxim_1\\AdditionalForm.Designer.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,10 +208,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\pilip\\Desktop\\\u0423\u041F_\u0420\u0430\u0431\u043E\u0442\u044B\\PR_up2025JUNE\\\u041F\u04402\\maxim_1\\maxim_1\\MainForm.cs",
               "RelativeDocumentMoniker": "maxim_1\\MainForm.cs",
               "ToolTip": "C:\\Users\\pilip\\Desktop\\maxim_1\\maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\..\\..\\maxim_1\\maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\maxim_1\\maxim_1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T07:47:40.592Z"
             }

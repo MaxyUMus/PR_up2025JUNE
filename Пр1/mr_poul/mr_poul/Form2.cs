@@ -76,8 +76,8 @@ namespace mr_poul
         {
             lookupData["products"] = LoadLookup("products", "product_id", "product_name");
             lookupData["partners"] = LoadLookup("partners", "partner_id", "partner_name");
-            lookupData["product_types"] = LoadLookup("product_types", "type_id", "product_type");
-            lookupData["material_types"] = LoadLookup("material_types", "type_id", "material_type");
+            lookupData["product_types"] = LoadLookup("product_types", "product_type_id", "product_type");
+            lookupData["material_types"] = LoadLookup("material_types", "material_type_id", "material_type");
         }
 
         private Dictionary<int, string> LoadLookup(string table, string keyCol, string valCol)
